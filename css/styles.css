@@ -1,7 +1,8 @@
 body
 {
+    background-color: #111;
     text-align: left;
-    color: #333;
+    color: whitesmoke;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
 }
@@ -18,4 +19,25 @@ body
 #container h1
 {
     font-size: 40px;
+}
+
+#header
+{
+    color: white;
+    box-shadow: -114px 55px 86px 55px rgb(207,205,205);
+    font-size: 40px;
+    margin: 0;
+    padding: 1cm;
+    font-weight: bold;
+}
+
+#header #tagline
+{
+    font-weight: bold;
+    font-size: 0,5cm;
+}
+
+#post 
+{
+    padding: 1cm;
 }

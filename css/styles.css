@@ -31,6 +31,12 @@ body
     font-weight: bold;
 }
 
+#header #logo
+{
+    width: 400px;
+    vertical-align: left;
+}
+
 #header #tagline
 {
     font-weight: bold;

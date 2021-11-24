@@ -48,3 +48,12 @@ body
 {
     padding: 1cm;
 }
+
+#footer
+{
+	background: #464646;
+	color: white;
+        font-weight: bold;
+	padding: 0.155cm;
+}
+

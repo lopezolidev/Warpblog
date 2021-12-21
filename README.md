@@ -6,3 +6,5 @@ An incredibly incoherent example proposal of a blog
 
  
 
+**Now with double leds on the sides of your sofa!**
+
